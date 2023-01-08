@@ -6,3 +6,5 @@ _site/
 .hugo_build.lock
 content-en
 content.en/
+_gen/
+_gen
